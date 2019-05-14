@@ -4,7 +4,7 @@
 
 13h30-13h35: [**A word about the session and its plan**](pdfs/intro.pdf)
 
-13h35-13h45: [**Code design**]((pdfs/design.pdf))
+13h35-13h45: [**Code design**](pdfs/design.pdf)
 
 13h45-13h55: [**Documenting your code**](pdfs/documentation.pdf)
 
@@ -14,5 +14,5 @@
 
 14h15-14h25: [**Remarks on open neuroscience**](pdfs/reproducibility.pdf)
 
-14h25-15h00: [**Panel discussion**](pdfs/panel.pdf)
+14h25-15h00: [**Panel discussion**](pdfs/panel_discussion.pdf)
 
